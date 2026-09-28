@@ -1,9 +1,9 @@
 # Security Policy
 
-## Supported Versions
+## No Support
 
-Only the latest version of this app is currently being supported with security updates.
+This is a personal fork to remove repeated notification permission requests.
 
 ## Reporting a Vulnerability
 
-Please email dreaming.in.code.zh@gmail.com to report a vulnerability.
+Please report to original author [here](https://github.com/zhanghai/MaterialFiles/)
