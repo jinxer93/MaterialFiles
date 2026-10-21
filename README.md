@@ -4,8 +4,10 @@
 
 ## Removed notification permission reminder
 
-- Stores a persistent preference when the notification permission is denied.
-- Users can still manually grant permission for notifications later.
+- Stores a persistent preference when the notification permission is denied
+- Users can still manually grant permission for notifications later
+- Merged Recent Files feature by [Arshit](https://github.com/arshit09/MaterialFiles/tree/feature/recent-files)
+- Removed Firebase Analytics, Crashlytics and Google Services integration
 
 ## License
 
